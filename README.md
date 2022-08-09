@@ -1,22 +1,23 @@
 ![banner](https://github.com/AFZL95/wbwwb/blob/WBWWB-FA/Persian-CoverImage.png)
 
-*a game about news cycles, vicious cycles, infinite cycles*
+*un juego acerca de los ciclos de las noticias, los ciclos viciosos, los ciclos infinitos*
 
-**[PLAY Persian)](https://alexclay.itch.io/)** -- **[PLAY (ENGLISH)](https://ncase.itch.io/wbwwb)**
+**[JUGAR EN ESPAÑOL](https://kalucifer.itch.io/)** -- **[JUGAR EN INGLÉS](https://ncase.itch.io/wbwwb)**
 
 ---
 
-### Made with open culture, for open culture!
+### Hecho con una cultura abierta para una cultura abierta!
 
-I'm releasing all my code and art to the public domain, under the [Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/) un-license. Which means if you wanna remix this to make your own way-too-meta game, or use it in a presentation or classroom or whatever, you already have my permission!
+El juego **Nos transformamos en lo que observamos** *We become what we behold* Fue desarrollado originalmente por Nicky Case en inglés.
+Ella ha liberado la totalidad del código fuente y arte usado en el juego al dominio público, bajo la No-Licencia [Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/). lo que significa que si quieres hacer obras derivadas para hacer tus propios juegos, o usarlo en una presentación, salón de clases o lo que sea, cuentas con su permiso, pero deberías recurrir al proyecto original en: XXX
 
-However, not *all* the code/art is mine. Credit's due where credit's due, so...
+Para anotar, no *todo* el código/arte usado aquí es propio del proyecto. Hay que dar crédito donde hay que dar crédito, así que...
 
-**CODE:**    
+**BIBLIOTECAS DE CÓDIGO:**    
 - [PIXI.js](https://github.com/pixijs/pixi.js), for rendering the graphics (MIT License)    
 - [Howler.js](https://github.com/goldfire/howler.js), for playing the sounds (MIT License)
 
-**SOUNDS:**    
+**SONIDOS:**    
 - [squeak!](https://www.freesound.org/people/ermfilm/sounds/130011/) (CC BY)    
 - [park ambience](https://www.freesound.org/people/Mafon2/sounds/274175/) (CC Zero)    
 - [camera shutter](https://www.freesound.org/people/uEffects/sounds/207865/) (CC Zero)    
@@ -32,5 +33,8 @@ However, not *all* the code/art is mine. Credit's due where credit's due, so...
 - [creepy warp sound](https://www.freesound.org/people/Andromadax24/sounds/184476/) (CC BY)        
 - [crowd screaming](https://www.freesound.org/people/MultiMax2121/sounds/156860/) (CC Zero)        
 
-**ART:**    
+**ARTE:**    
 - For the ending, I modified [this photo of a laptop](https://unsplash.com/photos/XyNi3rUEReE). (CC Zero)
+
+**NOTA ACERCA DE LA LICENCIA:**
+Para efectos de proteger esta obra digital como software, así como a sus autores y usuarios pero manteniendo la visión de apertura, acceso y transparencia planteada por su autora original, he aplicado la [Licencia MIT](https://mit-license.org/) en lugar de CC0.
