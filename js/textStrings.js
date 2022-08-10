@@ -519,35 +519,35 @@ var textStrings_PT_BR = { //I put that way because portuguese from Brazil (PT_BR
 
 var textStrings_ES = {
 	// Act 1
-	"niceHat": "OOH QUE BUEN SOMBRERO",
-	"outtaHere": "Vete de aquí",
-	"getARoom": "ASQUEROSO, VAYAN A UNA HABIATACIÓN",
-	"notCoolAnymore": "olvidenlo los sombreros ya no son geniales",
-	"tvOnTv": "Una TV... EN UNA TV!",
-	"cricky": "PEQUEÑO GRILLO <3",
-	"tooManyCrickets": "ok esos son demasiados grillos",
-	"normalPeep": "solo una mirada",
-	"normalPeeps": "solo algunas miradas",
-	"wowNothing": "WOWW, LA NADA",
+	"niceHat": "GUAU QUE BUEN SOMBRERO",
+	"outtaHere": "vete de aquí",
+	"getARoom": "QUE ASQUEROSO, PAGUEN MOTEL",
+	"notCoolAnymore": "olvídenlo, los sombreros ya no son geniales",
+	"tvOnTv": "Una Tele... En la Tele!",
+	"cricky": "UN GRILLITO <3",
+	"tooManyCrickets": "ok ya son demasiados grillos",
+	"normalPeep": "solo una persona normal",
+	"normalPeeps": "solo algunas personas comunes",
+	"wowNothing": "GUAU, NO ES NADA",
 
 	// Act 2
 	"crazySquareAttacks": "EL CUADRADO LOCO ATACA",
-	"justMissed": "oooooh solo dejalo pasar",
+	"justMissed": "oooooh lo perdiste",
 	"somethingInteresting": "(tienes que pillarlos haciendo *algo* interesante...)",
-	"whoIsScreaming": "(Tienes que enfocar al que grita)",
-	"circleFearsSquares": "CIRCULO TEME A CUADRADOS",
-	"whoScaresThem": "(también tienes que atrapar a *quién* les asusta)",
+	"whoIsScreaming": "(Tienes que enfocar al que les grita)",
+	"circleFearsSquares": "CÍRCULO TEME A LOS CUADRADOS",
+	"whoScaresThem": "(también tienes que pillar a *quién* les asusta)",
 	"areTheyScared": "(tienes que atraparlos *siendo* asustados por un cuadrado)", // not used
-	"squaresSnubCircles": "CUADRADOS DESPRECIAN A CIRCULOS",
+	"squaresSnubCircles": "CUADRADOS DESPRECIAN A CÍRCULOS",
 	"areTheySnubbed": "(ya gotta catch 'em *while* snubbing a circle)", // not used
-	"everyoneHates": "TODOS SE ODIAN!!1!",
-	"almostEveryoneHates": "CASI TODOS SE ODIAN...",
-	"squaresHateCircles": "CUADRADOS ODIAN A CIRCULOS",
-	"circlesHateSquares": "CIRCLES HATE SQUARES",
+	"everyoneHates": "TODOS ODIAN A TODOS !!1!",
+	"almostEveryoneHates": "CASI TODOS ODIAN A TODOS...",
+	"squaresHateCircles": "CUADRADOS ODIAN A CÍRCULOS",
+	"circlesHateSquares": "CÍRCULOS ODIAN A CUADRADOS",
 	"areTheyYelling": "(ya gotta catch 'em *yelling* at others)", // not used
-	"nerdsNow": "que estan haciendo esos nerds",
-	"schockedPeep": "why's this peep shocked?",
-	"whatever": "Lo que sea",
+	"nerdsNow": "qué están haciendo esos nerds",
+	"schockedPeep": "por qué está impresionado este?",
+	"whatever": "como sea",
 
 	// Act 3
 	"ellipsis": ". . .",
