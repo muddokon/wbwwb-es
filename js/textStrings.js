@@ -523,7 +523,7 @@ var textStrings_ES = {
 	"outtaHere": "vete de aquí",
 	"getARoom": "QUE ASQUEROSO, PAGUEN MOTEL",
 	"notCoolAnymore": "olvídenlo, los sombreros ya no son geniales",
-	"tvOnTv": "Una Tele... En la Tele!",
+	"tvOnTv": "Una Tele... ¡En la Tele!",
 	"cricky": "UN GRILLITO <3",
 	"tooManyCrickets": "ok ya son demasiados grillos",
 	"normalPeep": "solo una persona normal",
@@ -533,26 +533,26 @@ var textStrings_ES = {
 	// Act 2
 	"crazySquareAttacks": "EL CUADRADO LOCO ATACA",
 	"justMissed": "oooooh lo perdiste",
-	"somethingInteresting": "(tienes que pillarlos haciendo *algo* interesante...)",
+	"somethingInteresting": "(tienes que enfocarlos haciendo *algo* interesante...)",
 	"whoIsScreaming": "(Tienes que enfocar al que les grita)",
 	"circleFearsSquares": "CÍRCULO TEME A LOS CUADRADOS",
 	"whoScaresThem": "(también tienes que pillar a *quién* les asusta)",
 	"areTheyScared": "(tienes que atraparlos *siendo* asustados por un cuadrado)", // not used
 	"squaresSnubCircles": "CUADRADOS DESPRECIAN A CÍRCULOS",
 	"areTheySnubbed": "(ya gotta catch 'em *while* snubbing a circle)", // not used
-	"everyoneHates": "TODOS ODIAN A TODOS !!1!",
+	"everyoneHates": "¡¡¡ TODOS ODIAN A TODOS !!1!",
 	"almostEveryoneHates": "CASI TODOS ODIAN A TODOS...",
 	"squaresHateCircles": "CUADRADOS ODIAN A CÍRCULOS",
 	"circlesHateSquares": "CÍRCULOS ODIAN A CUADRADOS",
 	"areTheyYelling": "(ya gotta catch 'em *yelling* at others)", // not used
 	"nerdsNow": "qué están haciendo esos nerds",
-	"schockedPeep": "por qué está impresionado este?",
+	"schockedPeep": "¿por qué está asustado este?",
 	"whatever": "como sea",
 
 	// Act 3
 	"ellipsis": ". . .",
-	"coolNoMore": "los sombreros ya no son cool, no lo has oido?",
-	"beScared": "ASUSTATE. ENOJATE.",
+	"coolNoMore": "los sombreros ya no son cool, ¿no lo has oido?",
+	"beScared": "ASÚSTATE. ENÓJATE.",
 
 	// MANIFESTO
 	"manifesto": [
